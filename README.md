@@ -14,11 +14,11 @@ A passionate full stack developer with over 10 years of experience building scal
 ## Statistics
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=stevenjlho&show_icons=true&hide_rank=true&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api?username=stevenjlho&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=stevenjlho&show_icons=true&hide_rank=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=stevenjlho&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=stevenjlho&show_icons=true" />
