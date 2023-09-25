@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm <a href="https://stevenho.dev/" target="blank">
 Steven</a></h1>
 <p align="center">
-A passionate full stack developer with over 10 years of experience building scalable systems in web applications. Proficient in Javascript, Typescript, React, Next.js, Vue.js, Node.
+I'm Steven, a passionate full stack developer dedicated to web development.
 </p>
 
 ## Tech Stack
